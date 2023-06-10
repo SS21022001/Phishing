@@ -23,11 +23,25 @@ Once you find the email sender's IP address, where can you retrieve more informa
 
 Task-5
 In the above screenshots, what is the URI of the blocked image?
-> 
+> https://i.imgur.com/lsw0tdi.png
 In the above screenshots, what is the name of the PDF attachment?
->
+> payment-updateid.pdf
 In the attached virtual machine, view the information in email2.txt and reconstruct the PDF using the base64 data. What is the text within the PDF?
-> 
+> THM{BENIGN_PDF_ATTACHMENT}
+
+Task-6
+What trusted entity is this email masquerading as?
+> home depot
+What is the sender's email?
+> support@teckbe.com
+What is the subject line? 
+> Order Placed : Your Order ID OD2321657089291 Placed Successfully
+What is the URL link for - CLICK HERE? (Enter the defanged URL)
+> hxxp[://]t[.]teckbe[.]com/p/?j3=3DEOowFcEwFHl6EOAyFcoUFV= TVEchwFHlUFOo6lVTTDcATE7oUE7AUET=3D=3D
+
+Task-7
+What is BEC?
+> Business Email Compromise
 
 
 
