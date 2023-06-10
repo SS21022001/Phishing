@@ -9,17 +9,17 @@ Email dates back to what time frame?
 
 Task-3
 What port is classified as Secure Transport for SMTP?
-> 
+> 465
 What port is classified as Secure Transport for IMAP?
-> 
+> 993
 What port is classified as Secure Transport for POP3?
-> 
+> 995
 
 Task-4
 What email header is the same as "Reply-to"?
-> 
+> Return-Path
 Once you find the email sender's IP address, where can you retrieve more information about the IP?
-> 
+> http://www.arin.net/
 
 Task-5
 In the above screenshots, what is the URI of the blocked image?
